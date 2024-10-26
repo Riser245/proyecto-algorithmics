@@ -6,7 +6,7 @@ HEADER.innerHTML = `
         <a class="navbar-brand mt-2 mb-2 m-lg-3" href="#">
           <img src="../screens/img/take-off 1.png" alt="Logo" width="50" height="45">
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+        <button class="navbar-toggler bg-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
           aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
