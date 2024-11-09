@@ -19,9 +19,9 @@ HEADER.innerHTML = `
             Vuelos
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="../screens/vuelos1.html">Vuelos1</a></li>
-            <li><a class="dropdown-item" href="../screens/vuelos2.html">Vuelos2</a></li>
-            <li><a class="dropdown-item" href="../screens/vuelos3.html">Vuelos3</a></li>
+            <li><a class="dropdown-item" href="../screens/vuelo1.html">Vuelos1</a></li>
+            <li><a class="dropdown-item" href="../screens/vuelo2.html">Vuelos2</a></li>
+            <li><a class="dropdown-item" href="../screens/vuelo3.html">Vuelos3</a></li>
           </ul>
         </li>
       </ul>
